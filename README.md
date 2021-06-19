@@ -20,7 +20,7 @@
 ## 🔥 Instalação e execução
 
 - Faça um clone desse repositório utilizando o camando `https://github.com/Williams25/boilerplate.git`
-- Entre na pasta do projeto `boilerplate` e logo após `code .`
+- Entre na pasta do projeto `cd boilerplate` e logo após `code .`
 - Rode `yarn` para instalar as dependências
 - Rode `yarn dev` para iniciar o projeto
 - Rode `yarn test` para rodar os testes
