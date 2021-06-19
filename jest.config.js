@@ -1,6 +1,6 @@
 module.exports = {
   testEnvironment: "jsdom",
-  testPathIgnorePatters: [
+  testPathIgnorePatterns: [
     "/node_modules/", "/.next/", "/.husk/"
   ],
   collectCoverage: true,
