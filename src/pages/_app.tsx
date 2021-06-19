@@ -1,7 +1,23 @@
-import "../../styles/globals.css";
+import { AppProps } from "next/app";
+import Head from "next/head";
+import { GlobalStyle } from "styles/global";
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />;
+function App({ Component, pageProps }: AppProps) {
+  return (
+    <>
+      <Head>
+        <title>React avançado</title>
+        <link rel="shortcut icon" href="/img/icon-512.png" />
+        <link rel="apple-touch-icon" href="/img/icon-512.png" />
+        <meta
+          name="description"
+          content="A simple project startter to work with TypeScript, React, NextJS and Styled Components"
+        />
+      </Head>
+      <GlobalStyle />
+      <Component {...pageProps} />
+    </>
+  );
 }
 
-export default MyApp;
+export default App;
