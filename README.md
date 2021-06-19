@@ -2,20 +2,20 @@
 
 ## :dart: Tecnologias
 
-- React.js
-- Next.js
-- TypeScript
-- Styled-components
-- Jest
-- Babel
-- Prettier
-- Eslint
-- Husk
+- [React.js](https://pt-br.reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled-components](https://styled-components.com/)
+- [Jest](https://jestjs.io/pt-BR/)
+- [Babel](https://babeljs.io/)
+- [Prettier](https://prettier.io/)
+- [Eslint](https://eslint.org/)
+- [Husk](https://typicode.github.io/husky/#/)
 
 ## ✋🏻 Pré-requisitos
 
-- Node.js
-- Yarn
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/getting-started)
 
 ## 🔥 Instalação e execução
 
