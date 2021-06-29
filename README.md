@@ -11,6 +11,7 @@
 - [Prettier](https://prettier.io/)
 - [Eslint](https://eslint.org/)
 - [Husk](https://typicode.github.io/husky/#/)
+- [Storybook](https://storybook.js.org/docs/react/configure/overview)
 
 ## ✋🏻 Pré-requisitos
 
