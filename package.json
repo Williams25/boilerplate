@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "set NODE_ENV=production&&next build",
     "start": "next start",
     "lint": "next lint",
     "husky:init": "npx husky-init",
@@ -22,6 +22,7 @@
   "dependencies": {
     "@types/styled-components": "^5.1.10",
     "next": "11.0.0",
+    "next-pwa": "^5.2.21",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "styled-components": "^5.3.0"
