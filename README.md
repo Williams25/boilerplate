@@ -1,5 +1,7 @@
 # Boilerplate
 
+<img src="public/img/logo-gh.svg" alt="React avançado">
+
 ## :dart: Tecnologias
 
 - [React.js](https://pt-br.reactjs.org/)
